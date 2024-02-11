@@ -84,7 +84,8 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         text: 'JAVA',
         link: '/java/',
         items: [
-
+          { text: 'MySql知识', link: '/pages/ba1b27/' },
+          { text: '微服务', link: '/pages/'},
         ],
       },
       {

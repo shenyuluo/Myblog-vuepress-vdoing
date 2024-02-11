@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="51ec1f84-5f0c-46cc-919e-dfd132c60381" name="vuepress">
+        <fileTransfer rootFolder="/www/wwwroot/dist" accessType="SFTP" host="101.200.145.26" port="22" sshConfigId="0a10c0a6-43e9-471e-bf33-6835147a3208" sshConfig="root@101.200.145.26:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
